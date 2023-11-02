@@ -1,2 +1,2 @@
 # JavaDAM2
-Repositorio de algunos ejercicios de Java ☕
+· Repositorio de algunos ejercicios de Java ☕
